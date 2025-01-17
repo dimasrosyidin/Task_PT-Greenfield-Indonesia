@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.26.3",
+    "babel-eslint": "^10.1.0",
+    "eslint-plugin-react": "^7.37.4"
+  },
+  "dependencies": {
+    "@react-native-community/datetimepicker": "^8.2.0",
+    "@react-native-picker/picker": "^2.11.0",
+    "@react-navigation/native": "^7.0.14",
+    "@react-navigation/stack": "^7.1.1",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.7.9",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-native-gesture-handler": "^2.22.0",
+    "react-native-get-random-values": "^1.11.0",
+    "react-native-picker-select": "^9.3.1",
+    "react-native-reanimated": "^3.16.7",
+    "react-native-safe-area-context": "^5.1.0",
+    "react-native-screens": "^4.5.0",
+    "react-native-vector-icons": "^10.2.0",
+    "web-vitals": "^2.1.4"
+  }
+}
