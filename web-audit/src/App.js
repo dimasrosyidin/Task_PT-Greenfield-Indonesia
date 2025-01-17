@@ -6,8 +6,8 @@ import Register from './components/Register';
 import MainMenu from './components/MainMenu';
 import AuditForm from './components/AuditForm';
 import AuditList from './components/AuditList';
-import EditAudit from './components/EditAudit';
 import Profile from './components/Profile';
+import ReportChart from './components/ReportChart';
 
 function App() {
   return (
@@ -19,8 +19,8 @@ function App() {
         <Route path="/main-menu" element={<MainMenu />} />
         <Route path="/audit-form" element={<AuditForm />} />
         <Route path="/audit-list" element={<AuditList />} />
-        <Route path="/edit-audit/:id" element={<EditAudit />} />
         <Route path="/profile/" element={<Profile />} />
+        <Route path="/report/" element={<ReportChart />} />
       </Routes>
     </Router>
   );

@@ -38,10 +38,10 @@ function MainMenu() {
             Profile
           </Link>
           <Link
-            to="/edit-audit/1"
+            to="/report"
             className="bg-blue-500 hover:bg-blue-800 text-white py-4 rounded-lg shadow-md text-center transition font-medium text-lg"
           >
-            Edit Audit
+            Report Audit
           </Link>
           <Link
             to="/audit-form"
